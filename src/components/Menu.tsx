@@ -7,7 +7,7 @@ const menuItems = [
     name: 'Seafood Platter',
     description:
       'A generous selection of fresh seafood including grilled fish, calamari, and prawns, served with a side of your choice.',
-    price: 'GHS 120',
+    price: 'GHS 126',
     image: '/images/seafood platter.jpg',
     tag: 'Bestseller',
     tagColor: 'bg-red-deep text-cream',

@@ -42,7 +42,7 @@ export default function About() {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-charcoal/20">
               <img
-                src="/images/background.jpg"
+                src="/images/wine.jpg"
                 alt="Cheers Corner Restaurant Bar ambiance"
                 className="w-full h-auto object-cover"
                 loading="lazy"

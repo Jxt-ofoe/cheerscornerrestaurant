@@ -2,11 +2,13 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 const images = [
-  '/images/seafood platter.jpg',
-  '/images/classic pizza.jpg',
+  '/images/wine2.jpg',
+  '/images/people.jpg',
   '/images/signature cocktail.jpg',
-  '/images/signature burger.jpg',
-  '/images/background.jpg',
+  '/images/shawarma.jpg',
+  '/images/wine.jpg',
+  '/images/pizza.jpg',
+  '/images/place.jpg',
 ];
 
 export default function Gallery() {

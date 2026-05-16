@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { MapPin, Clock, Phone, Truck, UtensilsCrossed } from 'lucide-react';
+import { MapPin, Clock, Phone, UtensilsCrossed } from 'lucide-react';
 
 const hours = [
   { day: 'Monday – Sunday', time: '2:00 PM – 9:00 PM' },

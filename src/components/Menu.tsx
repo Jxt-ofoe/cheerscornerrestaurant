@@ -80,7 +80,7 @@ const menuItems = [
     name: 'Fufu with Kontomire soup',
     description: 'Pounded swallow in a nutritious green soup made from cocoyam leaves.',
     price: '',
-    image: '/image/fufu and green soup.jpg',
+    image: '/images/fufu and green soup.jpg',
     tag: 'Local',
     tagColor: 'bg-green-700 text-cream',
   },
